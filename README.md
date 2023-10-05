@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Real World Asset Tokenization. I am the Founder of SecurTok. I am also working on the ERC-7092 that have proposed for Financial bonds
+- 🔭 I’m currently working on Real World Asset Tokenization. I am the Founder of SecurTok. I am also working on the ERC-7092 that I have proposed for Financial bonds tokens
 - 🌱 I’m currently learning Green Bonds, Cross-chain Asset Management
 - 👯 I’m looking to collaborate on Financial Bond Tokenization
 - 🤔 I’m looking for help with Funding SecurTok
