@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-<div align="center">
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Edoumou&count_private=true&theme=tokyonight&showicons=true)]()
-</div>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Edoumou&count_private=true&theme=tokyonight&showicons=true)]()
 
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edoumou&hide_progress=true)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edoumou&hide_progress=true)
 
 **Edoumou/Edoumou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
