@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edoumou&hide_progress=true)
 
-✨ _special_ ✨
+✨ _Edoumou_ ✨
 
 Here are some ideas to get you started:
 
