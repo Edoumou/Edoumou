@@ -6,8 +6,6 @@
 
 ✨ _Edoumou_ ✨
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Real World Asset Tokenization. I am the Founder of SecurTok. I am also working on the ERC-7092 that I have proposed for Financial bond tokens
 - 🌱 I’m currently learning Green Bonds, Cross-chain Asset Management
 - 👯 I’m looking to collaborate on Financial Bond Tokenization
