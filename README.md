@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-/**
+<-! 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Edoumou&count_private=true&theme=tokyonight&showicons=true)]()
-*/
+->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edoumou&hide_progress=true)
 
